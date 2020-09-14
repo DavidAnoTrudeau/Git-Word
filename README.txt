@@ -1,0 +1,1 @@
+2020-09-14 10:25AM: Added license to LICENSE.txt
