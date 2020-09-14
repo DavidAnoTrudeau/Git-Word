@@ -1,9 +1,9 @@
-2020-09-14 10:25AM: Added license to LICENSE.txt
+LICENSE.txt: Contains license
 
-2020-09-14 11:49AM: Added StudyPlan.pdf
+LocalRep.PNG: Screenshot of my local repository
 
-2020-09-14 12:00PM: Removed StudyPlan.pdf
+README.txt: To indicate purpose of each file
 
-2020-09-14 12:00PM: Added StudyPlan.pdf
+StudyPlan.docx: A word version of my study plan
 
-2020-09-14 12:13PM: Added StudyPlan.docx
+StudyPlan.pdf: A pdf version of my study plan
