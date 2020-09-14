@@ -2,6 +2,8 @@ LICENSE.txt: Contains license
 
 LocalRep.PNG: Screenshot of my local repository
 
+RemoteRep.PNG
+
 README.txt: To indicate purpose of each file
 
 StudyPlan.docx: A word version of my study plan
