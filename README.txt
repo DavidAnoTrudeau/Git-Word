@@ -2,7 +2,7 @@ LICENSE.txt: Contains license
 
 LocalRep.PNG: Screenshot of my local repository
 
-RemoteRep.PNG
+RemoteRep.PNG: Screenshot of remote repository 
 
 README.txt: To indicate purpose of each file
 
